@@ -3,6 +3,12 @@
 
 This is a demo application written to demonstrate a way to develop a solution in an extensible way.
 
+Design
+----
+
+This solution is designed so that pieces can easily be swapped out without making code changes down stream. You
+can easily change where a service is pointing to or what data is returned from the repository without having to change
+the base code.
 
 
 Projects:
