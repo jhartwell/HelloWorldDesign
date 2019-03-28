@@ -3,6 +3,12 @@
 
 This is a demo application written to demonstrate a way to develop a solution in an extensible way.
 
+Requirements
+----
+
+This project requires .NET Core 2.1 or later
+
+
 Design
 ----
 
